@@ -1,2 +1,2 @@
 # cvrdd
-cvrdd code for KDD-2023
+cvrdd code and data for KDD-2023
